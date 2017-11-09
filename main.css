@@ -1,11 +1,71 @@
+/*Add some CSS!*/
+
+
 h1 {
-  font-family: Times;
-  font-size: 32px;
-  color: green;
+  font-family: Ariel;
+  font-size: 16px;
+  color: #aaaaaa;
 }
 
 p {
   font-family: Arial;
   font-size: 16px;
-  color: darkgreen;
+  color: #aaaaaa;
+}
+
+h3 {
+  font-family: Ariel;
+  font-size: 16px;
+  color: green;
+}
+
+h6 {
+  font-family: Ariel;
+  font-size: 16px;
+  color: #aaaaaa;
+}
+
+h7 {
+  font-family: Ariel;
+  font-size: 18px;
+  color: #aaaaaa;
+}
+
+h8 {
+  font-family: Ariel;
+  font-size: 20px;
+  color: #aaaaaa;
+}
+
+h9 {
+  font-family: Ariel;
+  font-size: 22px;
+  color: #aaaaaa;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: green;
+}
+
+/* Bold and Blue link */
+a {
+    font-family: Verdana;
+    color: blue;
+    text-decoration:  none;
+    font-weight: bold;
+}
+
+.highlight {
+  color: white;
+  background-color: red;
+}
+
+.bright-color {
+  color: red;
 }
